@@ -1,1 +1,1 @@
-# testing for repository
+<?php echo "this is a index"; ?>
